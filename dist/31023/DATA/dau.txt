@@ -1,0 +1,13 @@
+tqECU Pro Ver  9.1218
+Guest:ATE
+EcuInfo
+&1    &1    &1    &1    &0    &0    &0    &1    &1    &0    &1    &0    &0    &0    
+EcuList
+&HONDA*    &WINNER X*    &PC exFour*    &9*    &5*    &3*    &Ver 9.13*    &2023-09-13*  
+EcuConfigBit
+&37   &00100101
+Dgv_AutoClutch
+&50   &180  &160  &140  &120  &100  
+EcuPassword
+&0    &0    &0    &0    
+Dgv_Oil_Time1
